@@ -1,5 +1,20 @@
 <?xml version="1.0"?>
 <registry>
-<!-- -*- extra stuff goes here -*- -->
-
+  <records prefix="plone.resources/ideabox.theme"
+    interface='Products.CMFPlone.interfaces.IResourceRegistry'>
+    <value key="css">
+      <element>++theme++ideabox-theme/less/theme.less</element>
+    </value>
+  </records>
+  <records prefix="plone.bundles/ideabox.theme"
+    interface='Products.CMFPlone.interfaces.IBundleRegistry'>
+    <value key="resources">
+      <element>ideabox.theme</element>
+    </value>
+    <value key="merge_with">default</value>
+    <value key="enabled">True</value>
+    <value key="compile">True</value>
+    <value key="csscompilation">++plone++ideabox-theme/less/theme-compiled.css</value>
+    <value key="last_compilation">2018-07-13 00:00:00</value>
+  </records>
 </registry>
