@@ -1,4 +1,8 @@
 graft src/ideabox
 graft docs
 include *.rst
+include *.txt
 global-exclude *.pyc
+include *.GPL
+exclude *.yml
+exclude tox.ini
