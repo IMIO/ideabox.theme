@@ -60,6 +60,7 @@ module.exports = function (grunt) {
                 options: {
                     watchTask: true,
                     debugInfo: true,
+                    livereload: true,
                     online: true,
                     server: {
                         baseDir: "."

@@ -5,7 +5,8 @@ Changelog
 1.0a2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Refactoring.
+  [bsuttor]
 
 
 1.0a1 (2020-02-19)
