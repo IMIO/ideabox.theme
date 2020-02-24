@@ -50,4 +50,10 @@
       name="ideabox-theme"
       />
 
+  <plone:static
+      directory="theme/less"
+      type="plone"
+      name="imio-theme.less"
+      />
+
 </configure>
