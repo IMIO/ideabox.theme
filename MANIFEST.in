@@ -6,3 +6,7 @@ global-exclude *.pyc
 include *.GPL
 exclude *.yml
 exclude tox.ini
+exclude Gruntfile.js
+exclude Makefile
+exclude package-lock.json
+exclude package.json
