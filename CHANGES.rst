@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0.1 (unreleased)
+1.0.1 (2021-09-03)
 ------------------
 
 - Add diazo rules to remove dashboard and preferences out of membertools menu
