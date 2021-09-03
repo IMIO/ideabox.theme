@@ -5,6 +5,9 @@ Changelog
 1.0.1 (unreleased)
 ------------------
 
+- Add diazo rules to remove dashboard and preferences out of membertools menu
+  [boulch]
+
 - Simplify config for TTW LESS edition
   [laulaz]
 

@@ -27,6 +27,8 @@
     <!-- Script -->
     <after css:theme-children="head" css:content="head script" />
   </rules>
+  <drop css:content="#portal-membertools #membertools-personaltools-dashboard" />
+  <drop css:content="#portal-membertools #membertools-personaltools-preferences" />
 
   <!-- Copy over the id/class attributes on the body tag. This is important for per-section styling -->
   <copy attributes="*" css:content="body" css:theme="body" />
