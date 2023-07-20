@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0.2 (unreleased)
+1.0.2 (2023-07-20)
 ------------------
 
 - Update python version requirement from 2.7 to 3.8
