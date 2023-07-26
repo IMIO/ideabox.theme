@@ -5,7 +5,8 @@ Changelog
 1.0.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add some css to customize projects status in faceted view
+  [jhero]
 
 
 1.0.2 (2023-07-20)
