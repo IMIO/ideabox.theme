@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0.3 (unreleased)
+1.0.3 (2023-07-26)
 ------------------
 
 - Add some css to customize projects status in faceted view
